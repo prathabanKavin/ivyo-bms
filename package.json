@@ -1,7 +1,7 @@
 {
-  "name": "ivyo-bms",
+  "name": "junglefowl",
   "version": "1.0.0",
-  "description": "This is built for IvyO.lk Business Management",
+  "description": "This is built for IvyO.lk small Business Management",
   "main": "server.js",
   "scripts": {
     "start": "node backend/server",
@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/prathabanKavin/ivyo-bms#readme",
   "dependencies": {
-    "express": "^4.17.3"
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.8"
   },
   "devDependencies": {
     "concurrently": "^7.0.0",
