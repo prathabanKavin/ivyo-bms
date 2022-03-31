@@ -1,2 +1,2 @@
-# ivyo-bms
-This repository is for IvyO.lk Business Management 
+# junglefowl-bms
+This repository is for small Business Management 
