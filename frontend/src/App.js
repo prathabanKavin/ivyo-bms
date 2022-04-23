@@ -1,11 +1,11 @@
-
 import './App.css';
+import MiniDrawer from './components/MiniDrawer';
 
-function App() {
+const App = () => {
   return (
-    <div>
-      Hi IvyO
-    </div>
+    < >
+      <MiniDrawer />
+    </>
   );
 }
 
